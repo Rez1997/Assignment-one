@@ -1,0 +1,285 @@
+
+
+body{
+    width: 1600px;
+   height: 7335px;
+}
+  
+.header{
+   
+   background-image: url(../images/Banner.png);
+   overflow: auto;
+   background-size: 35%;
+   background-position: center;
+   width: 1320px;
+   height: 600px;
+   flex-shrink: 0;
+   background-repeat: no-repeat;
+   display: flex;
+   border-radius: 16px;
+   margin-top: -150px;
+   margin-left: 100px;
+       
+}
+
+.text{
+    margin-top: 150px;
+    margin-left: -100px;
+    font-family: Merriweather
+}
+.small-title{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: -30px;
+}
+.title{
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px; 
+
+}
+.title2{
+    text-align: center;
+    font-size: 32px;
+    margin-top: -60px;
+}
+
+nav{
+    color: #fff;
+    
+    position: absolute;
+    top: 120px;
+    left: 650px;
+    text-align: center;
+    border-radius: 16px;
+    margin-top: -150px;
+    margin-left: 100px;
+    
+
+}
+
+
+
+    
+
+h1{
+    margin: 30;
+    
+    text-align: center;
+    font-size: 35px;
+    font-style: normal
+    padding: 0px 30px 30px 0px;
+
+}
+.pera{
+    padding: 350px 650px ;
+    color: #f00;
+    margin-top: -520px;
+    margin-left: -90px;
+   
+}
+.pera2{
+    text-align: center;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all{
+    color: black;
+    text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.picy{
+    width: 350px;
+    height: height;
+    flex-shrink: 0;
+    margin-left: 40px;
+    margin-bottom: -150px;
+    
+}
+.welcome{
+    color: #fff;
+    font-family: Merriweather;
+    font-size: 35px;
+    margin-top: -350px;
+    margin-left: 100px;
+    background-image: url(../images/Vectorrr.png);
+    background-size: 45%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    
+}
+.welcome2, .lines{
+    margin-top:160px;
+    margin-left:400px;
+    display: flex;
+    position: absolute;
+    text-decoration: none;
+    
+}
+.lines{
+    font-size: 10px;
+    margin-top: 280px;
+    text-decoration: none;
+}
+.switch{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    color: #fff;
+}
+.twofour{
+    display: flex;
+    height: 200px;
+    margin-top: -100px;
+    margin-left: 20px;
+}
+
+.box{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.reach{
+    color: #f00;
+}
+.butam{
+    background-color: #f00;
+    border-radius: 0;
+}
+.guta{
+    color: #fff;
+}
+
+.venue{
+    padding: 130px;
+    border: 20px;
+    background: #fff8f3;
+    text-align: center;
+    margin: -130px 0px;
+}
+.circle{
+    position: relative;
+    left: 230px;
+    top: 200px;
+}
+.info1{
+    color: #f00;
+}
+.bochor{
+    position: relative;
+    left: 1200px;
+    top: 40px;
+}
+.gol{
+    padding: 120px;
+    border: 10px;
+    margin: -200px 0px;
+}
+.baji{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.happy{
+    position: absolute;
+    left: 1200px;
+    top: 1640px;
+
+
+    
+}
+.noi{
+    width: 80px;
+    height:80px;
+}
+
+.what{
+    text-align: center;
+    font-family: Merriweather;
+    padding: 100px;
+}
+.laal{
+    padding: 350px;
+    width: 644.219px;
+    height:137.535px;
+    flex-shrink: 0;
+    margin-left:-200px;
+}
+.gift{
+    padding: 120px;
+    border: 10px;
+    margin: -200px 0px;
+    
+    
+}
+.dhamaka{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    position: relative;
+    top: -750px;
+    margin-left: 65px;
+
+}
+
+.fifty{
+    background-image: url(../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    margin-bottom: 50px ;
+    padding: 380px;
+    border: 10px;
+    margin: -1800px 0px;
+    margin-left:700px;
+}
+.fifty{
+    margin-right: -212px;
+}
+.shonno{
+    position: relative;
+    top: 1435px;
+    margin-left: 900px;
+}
+.portfolio{
+    text-align: left;
+    padding: 1800px 0px;
+    margin-left: 160px;
+    font-family: Merriweather;
+    
+
+}
+.portfolio2{
+    display: flex;
+}
+.foot{
+    color: #FFF;
+    font-family: Inter;
+    background-color: #070211;
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+.foot2{
+    text-align: right;
+    margin-right: 150px;
+}
+.social-media{
+    display: contents;
+}
